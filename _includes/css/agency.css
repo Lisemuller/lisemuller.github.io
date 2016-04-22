@@ -10,6 +10,16 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+canvas { width: 100%; height: 100% }
+
+
+#birds-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }
