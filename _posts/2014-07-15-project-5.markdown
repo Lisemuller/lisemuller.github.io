@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: "https://landmarks-view.herokuapp.com/"
 category: "https://github.com/Lisemuller/WDI_PROJECT4"
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Landmark is a game built with the full MEAN stack, using Google Street View Image API and the Autocomplete functionality of the Google Places API. The player is confronted to a random street view somewhere in the world and has to find in which country he is situated to get one point and continue the game. He has one minute and a half to guess as many location as he can and try to beat the best score of the other users. 
 
 ---
