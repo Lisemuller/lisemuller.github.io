@@ -1,6 +1,6 @@
 ---
 title: Landmark
-subtitle: Website Design
+subtitle: Game
 layout: default
 modal-id: 5
 date: 2014-07-15
