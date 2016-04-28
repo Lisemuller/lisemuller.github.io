@@ -294,7 +294,7 @@ header {
 
 header .intro {
     background-color: white;
-    width: 800px;
+    width: 516px;
     height: 400px;
     position: absolute;
     z-index: 1;
@@ -320,6 +320,29 @@ header .intro-heading {
 
 @media(min-width:768px) {
 
+    header {
+        text-align: center;
+        border-top: 10px solid #FFFF66;
+        background-attachment: scroll;
+        background-position: center center;
+        background-repeat: none;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+
+    header .intro {
+        background-color: white;
+        width: 800px;
+        height: 400px;
+        position: absolute;
+        z-index: 1;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        font-family: 'Raleway', sans-serif, "Helvetica Neue",Helvetica,Arial,cursive;
+    }
 
     header .intro-lead-in {
         margin-bottom: 25px;
