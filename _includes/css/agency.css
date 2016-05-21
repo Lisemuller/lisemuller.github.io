@@ -294,8 +294,8 @@ header {
 
 header .intro {
     background-color: white;
-    width: 85vw;
-    height: 6vh;
+    width: 87vw;
+    height: 65vh;
     position: absolute;
     z-index: 1;
     left: 50%;
@@ -309,13 +309,13 @@ header .intro-lead-in {
     margin-bottom: 25px;
     font-family: 'Raleway', sans-serif, "Helvetica Neue",Helvetica,Arial,cursive;
     color: #fec503 !important ;
-    font-size: 60px !important;
+    font-size: 40px !important;
 }
 
 header .intro-heading {
     margin-bottom: 25px;
     font-family: 'Raleway', sans-serif, "Helvetica Neue",Helvetica,Arial,cursive;
-    font-size: 20px !important;
+    font-size: 10px !important;
 }
 
 @media(min-width:768px) {
