@@ -315,7 +315,7 @@ header .intro-lead-in {
 header .intro-heading {
     margin-bottom: 25px;
     font-family: 'Raleway', sans-serif, "Helvetica Neue",Helvetica,Arial,cursive;
-    font-size: 10px !important;
+    font-size: 15px !important;
 }
 
 @media(min-width:768px) {
