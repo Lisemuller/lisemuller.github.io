@@ -2,7 +2,8 @@
 title: Lise Muller
 email: lise.muller@sciencespo.fr
 description: "Lise Muller Website and Portfolio"
-futur: true
+future: true
+timezone: TIMEZONE
 
 
 # Team names, titles and social links
