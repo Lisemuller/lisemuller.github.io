@@ -9,7 +9,7 @@ thumbnail: evil-rabbit-thumbnail.png
 alt: image-alt
 project-date: February 2014
 client: "https://evil-rabbit-generator.herokuapp.com/"
-category: "https://github.com/Lisemuller/WDI_PROJECT-1"
+clientcode: "https://github.com/Lisemuller/WDI_PROJECT-1"
 description: The Evil Rabbit Generator is an interactive game based on the rule of the Mastermind, using Javascript and JQuery. The main challenge of this project stands in the game logic, as the computer not only has to generate a random combination of colours to be guessed by the player, but also has to give feedback to the player each time he plays a move, to lead him to the solution.
 
 ---

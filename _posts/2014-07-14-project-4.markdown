@@ -9,7 +9,7 @@ thumbnail: webpeek-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: "https://webpeek.herokuapp.com/"
-category: "https://github.com/Lisemuller/WDI_PROJECT2"
+clientcode: "https://github.com/Lisemuller/WDI_PROJECT2"
 description:  Peek is a fullstack app using Ruby, Sinatra on a postgreSQL and ActiveRecord base using BCrypt for the authentication and SCSS and Pure CSS for the styling. Peek allows the user to keep track of his favourite websites, sort them in different folders of his choice and shared those folders with other users of the website by looking for their name in a search bar. 
 
 ---

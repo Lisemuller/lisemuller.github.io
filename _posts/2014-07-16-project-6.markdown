@@ -9,7 +9,7 @@ thumbnail: excess-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: "https://excess.herokuapp.com/"
-category: "https://github.com/scribble79/WDI_LDN_18_GROUP_PROJECT_3"
+clientcode: "https://github.com/scribble79/WDI_LDN_18_GROUP_PROJECT_3"
 description: Excess provides a platform to help users sharing excess food resources that would have gone to waste with their community. The app was built using NodeJS, Express and Ajax, and JWT for the authentication. TDD was employed during the production of the app, using Chai and Mocha. The whole app is styled with SCSS and Skeleton. The app was built in team, using Trello to coordinate and practicing daily pair-coding. 
 
 
